@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/https://i.makeagif.com/media/2-29-2016/EAWrBA.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Atomode Abraham</h1>
-<h3 align="center">A passionate backend developer and a Product Designer from Nigeria.</h3>
+<h3 align="center">A passionate a Product Designer and Data Scientist from Nigeria.</h3>
 <img align= "right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*ygaHmPjQnVmEApdT.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamabee&label=Profile%20views&color=0e75b6&style=flat" alt="iamabee" /> </p>
 
