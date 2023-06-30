@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/_iam_abee_" target="blank"><img src="https://img.shields.io/twitter/follow/_iam_abee_?logo=twitter&style=for-the-badge" alt="_iam_abee_" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development and Data Science with Python**
+- 🌱 I’m currently learning **Data Science and Machine Learning with Python**
 
 - 💬 Ask me about **UI/Ux**
 
