@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/_iam_abee_" target="blank"><img src="https://img.shields.io/twitter/follow/_iam_abee_?logo=twitter&style=for-the-badge" alt="_iam_abee_" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science and Machine Learning with Python**
+- 🌱 I’m currently learning **Data Science/Machine Learning and Cloud Computing **
 
-- 💬 Ask me about **UI/Ux**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **atomodeabraham@gmail.com**
 
